@@ -143,6 +143,9 @@ Review length impacts sentiment prediction accuracy
 
 TF-IDF improves model performance over simple Bag of Words
 
+# Dataset :
+https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input
+
 # output :
 
 ![Image](https://github.com/user-attachments/assets/c1610637-bbdf-4e15-b795-1b61443eda0f)
