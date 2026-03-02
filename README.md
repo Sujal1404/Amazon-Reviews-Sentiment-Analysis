@@ -144,3 +144,6 @@ Review length impacts sentiment prediction accuracy
 TF-IDF improves model performance over simple Bag of Words
 
 # output :
+
+![Image](https://github.com/user-attachments/assets/c1610637-bbdf-4e15-b795-1b61443eda0f)
+![Image](https://github.com/user-attachments/assets/c4f099d9-8ccc-4628-8822-b2d3fb718e67)
